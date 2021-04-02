@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['getcontour_31',['getContour',['../c__contour_8cpp.html#aa351284b5f3fcc7c9b11265cec98e97d',1,'getContour(vector&lt; Rectangle &gt; rectangles, set&lt; ContourStripe &gt; S):&#160;c_contour.cpp'],['../c__contour_8hpp.html#aa351284b5f3fcc7c9b11265cec98e97d',1,'getContour(vector&lt; Rectangle &gt; rectangles, set&lt; ContourStripe &gt; S):&#160;c_contour.cpp']]],
+  ['getcontourpieces_32',['getContourPieces',['../c__contour_8cpp.html#a1e9733773715117c40003c7fa851a127',1,'getContourPieces(Edge h, ContourStripe s):&#160;c_contour.cpp'],['../c__contour_8hpp.html#a1e9733773715117c40003c7fa851a127',1,'getContourPieces(Edge h, ContourStripe s):&#160;c_contour.cpp']]],
+  ['gethorizontaledges_33',['getHorizontalEdges',['../c__primary_8cpp.html#af387f3a7de0fa53ac489ec4996c4f26b',1,'getHorizontalEdges(vector&lt; Rectangle &gt; rectangles):&#160;c_primary.cpp'],['../c__primary_8hpp.html#af387f3a7de0fa53ac489ec4996c4f26b',1,'getHorizontalEdges(vector&lt; Rectangle &gt; rectangles):&#160;c_primary.cpp']]],
+  ['getleafnodes_34',['getLeafNodes',['../c__contour_8cpp.html#a7b91e78193e43e7cd7f87304c7c00cd0',1,'getLeafNodes(Ctree *root):&#160;c_contour.cpp'],['../c__contour_8hpp.html#a7b91e78193e43e7cd7f87304c7c00cd0',1,'getLeafNodes(Ctree *root):&#160;c_contour.cpp']]],
+  ['getverticaledges_35',['getVerticalEdges',['../c__primary_8cpp.html#aaf23483d42ac69c085109adf181ac781',1,'getVerticalEdges(vector&lt; Rectangle &gt; rectangles):&#160;c_primary.cpp'],['../c__primary_8hpp.html#aaf23483d42ac69c085109adf181ac781',1,'getVerticalEdges(vector&lt; Rectangle &gt; rectangles):&#160;c_primary.cpp']]]
+];
